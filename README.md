@@ -1,10 +1,15 @@
 # Gym Management System – QA Testing
 
 **College:** Adi Shankara College of Engineering & Technology
+
 **Module Assigned:** New Member
+
 **Application:** Axo Fitness – Gym Management System
+
 **URL:** truthordarefun.com/axofitness/members/entry
+
 **Test Date:** 04-06-2026
+
 **Tester:** Nandana Ramachandran
 
 ---
